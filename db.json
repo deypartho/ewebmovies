@@ -61,5 +61,63 @@
   "hindi":[],
   "hindiSeason": [],
   "englishSeason": [],
-  "english": []
+  "english": [],
+  "homeBanner" : [
+    {
+      "id": 18664,
+      "url": "https://yts.mx/movies/gulabo-sitabo-2020",
+      "imdb_code": "tt10333912",
+      "title": "Gulabo Sitabo",
+      "title_english": "Gulabo Sitabo",
+      "title_long": "Gulabo Sitabo (2020)",
+      "slug": "gulabo-sitabo-2020",
+      "year": 2020,
+      "rating": 6.4,
+      "runtime": 0,
+      "genres": [
+      "Comedy",
+      "Drama"
+      ],
+      "summary": "Welcome to the world of Gulabo Sitabo where two slimy scheming foxes in a game of one-upmanship, each one attracting other members to their clan and each one with an agenda of his own. Meet 'Mirza' (Amitabh Bachchan) - a 78yrs old landlord, who would move heaven and earth for his most prized possession - an old dilapidated mansion in the heart of Lucknow. But this garden of roses comes with its own cluster of 'pricky thorns' - tenants. Amongst them most prominently, 'Baankey' (Ayushmann Khuranna)' a shrewd, sly and squatted tenant, who matches Mirza bit for a bit in their ceaseless bantering. Gulabo Sitabo is a quirky slice of life where Mirza and Baankey are like Tom and Jerry - unique and unmatched, friend and foe, naughty and smart, little and large, all combine to produce chaos.",
+      "description_full": "Welcome to the world of Gulabo Sitabo where two slimy scheming foxes in a game of one-upmanship, each one attracting other members to their clan and each one with an agenda of his own. Meet 'Mirza' (Amitabh Bachchan) - a 78yrs old landlord, who would move heaven and earth for his most prized possession - an old dilapidated mansion in the heart of Lucknow. But this garden of roses comes with its own cluster of 'pricky thorns' - tenants. Amongst them most prominently, 'Baankey' (Ayushmann Khuranna)' a shrewd, sly and squatted tenant, who matches Mirza bit for a bit in their ceaseless bantering. Gulabo Sitabo is a quirky slice of life where Mirza and Baankey are like Tom and Jerry - unique and unmatched, friend and foe, naughty and smart, little and large, all combine to produce chaos.",
+      "synopsis": "Welcome to the world of Gulabo Sitabo where two slimy scheming foxes in a game of one-upmanship, each one attracting other members to their clan and each one with an agenda of his own. Meet 'Mirza' (Amitabh Bachchan) - a 78yrs old landlord, who would move heaven and earth for his most prized possession - an old dilapidated mansion in the heart of Lucknow. But this garden of roses comes with its own cluster of 'pricky thorns' - tenants. Amongst them most prominently, 'Baankey' (Ayushmann Khuranna)' a shrewd, sly and squatted tenant, who matches Mirza bit for a bit in their ceaseless bantering. Gulabo Sitabo is a quirky slice of life where Mirza and Baankey are like Tom and Jerry - unique and unmatched, friend and foe, naughty and smart, little and large, all combine to produce chaos.",
+      "yt_trailer_code": "o0qeQ_yHqtA",
+      "language": "English",
+      "mpa_rating": "",
+      "background_image": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/background.jpg",
+      "background_image_original": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/background.jpg",
+      "small_cover_image": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/small-cover.jpg",
+      "medium_cover_image": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/medium-cover.jpg",
+      "large_cover_image": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/large-cover.jpg",
+      "state": "ok",
+      "torrents": [
+      {
+      "url": "https://yts.mx/torrent/download/11728A5F86FCA6BFF0352C9402591E64E51E79A7",
+      "hash": "11728A5F86FCA6BFF0352C9402591E64E51E79A7",
+      "quality": "720p",
+      "type": "web",
+      "seeds": 124,
+      "peers": 44,
+      "size": "1.12 GB",
+      "size_bytes": 1202590843,
+      "date_uploaded": "2020-06-27 00:04:57",
+      "date_uploaded_unix": 1593209097
+      },
+      {
+      "url": "https://yts.mx/torrent/download/C522F2A79517D46B0498CEF85128C97D8337C5F5",
+      "hash": "C522F2A79517D46B0498CEF85128C97D8337C5F5",
+      "quality": "1080p",
+      "type": "web",
+      "seeds": 99,
+      "peers": 21,
+      "size": "2.3 GB",
+      "size_bytes": 2469606195,
+      "date_uploaded": "2020-06-27 02:44:37",
+      "date_uploaded_unix": 1593218677
+      }
+      ],
+      "date_uploaded": "2020-06-27 00:04:57",
+      "date_uploaded_unix": 1593209097
+      }
+  ]
 }
