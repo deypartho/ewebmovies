@@ -118,6 +118,99 @@
       ],
       "date_uploaded": "2020-06-27 00:04:57",
       "date_uploaded_unix": 1593209097
+      },
+    {
+      id: 16204,
+      url: "https://yts.mx/movies/bloodshot-2020",
+      imdb_code: "tt1634106",
+      title: "Bloodshot",
+      title_english: "Bloodshot",
+      title_long: "Bloodshot (2020)",
+      slug: "bloodshot-2020",
+      year: 2020,
+      rating: 5.7,
+      runtime: 109,
+      genres: [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+      ],
+      summary: "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
+      description_full: "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
+      synopsis: "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
+      yt_trailer_code: "F95Fk255I4M",
+      language: "English",
+      mpa_rating: "PG-13",
+      background_image: "https://yts.mx/assets/images/movies/bloodshot_2020/background.jpg",
+      background_image_original: "https://yts.mx/assets/images/movies/bloodshot_2020/background.jpg",
+      small_cover_image: "https://yts.mx/assets/images/movies/bloodshot_2020/small-cover.jpg",
+      medium_cover_image: "https://yts.mx/assets/images/movies/bloodshot_2020/medium-cover.jpg",
+      large_cover_image: "https://yts.mx/assets/images/movies/bloodshot_2020/large-cover.jpg",
+      state: "ok",
+      torrents: [
+      {
+      url: "https://yts.mx/torrent/download/87025BCAD562C2E3E3A5012459C975470FF5F44D",
+      hash: "87025BCAD562C2E3E3A5012459C975470FF5F44D",
+      quality: "720p",
+      type: "bluray",
+      seeds: 935,
+      peers: 143,
+      size: "1003.75 MB",
+      size_bytes: 1052508160,
+      date_uploaded: "2020-04-24 16:17:22",
+      date_uploaded_unix: 1587737842
+      },
+      {
+      url: "https://yts.mx/torrent/download/645A04A627C9C77CEC364F954F8A80BBD2F33910",
+      hash: "645A04A627C9C77CEC364F954F8A80BBD2F33910",
+      quality: "1080p",
+      type: "bluray",
+      seeds: 1050,
+      peers: 179,
+      size: "2.01 GB",
+      size_bytes: 2158221066,
+      date_uploaded: "2020-04-24 18:48:59",
+      date_uploaded_unix: 1587746939
+      },
+      {
+      url: "https://yts.mx/torrent/download/CF24AEBAAD090766B1EFF92D0C17EE872644435A",
+      hash: "CF24AEBAAD090766B1EFF92D0C17EE872644435A",
+      quality: "2160p",
+      type: "bluray",
+      seeds: 211,
+      peers: 65,
+      size: "4.96 GB",
+      size_bytes: 5325759447,
+      date_uploaded: "2020-05-07 18:12:27",
+      date_uploaded_unix: 1588867947
+      },
+      {
+      url: "https://yts.mx/torrent/download/366BFB521500FF093C6305F52D2421BD35167CA8",
+      hash: "366BFB521500FF093C6305F52D2421BD35167CA8",
+      quality: "720p",
+      type: "web",
+      seeds: 1097,
+      peers: 137,
+      size: "1005.06 MB",
+      size_bytes: 1053881795,
+      date_uploaded: "2020-03-24 21:08:29",
+      date_uploaded_unix: 1585080509
+      },
+      {
+      url: "https://yts.mx/torrent/download/5CE0BFBA1C5A73CED27E47D5E24BAAB162B5C97E",
+      hash: "5CE0BFBA1C5A73CED27E47D5E24BAAB162B5C97E",
+      quality: "1080p",
+      type: "web",
+      seeds: 1808,
+      peers: 198,
+      size: "2.02 GB",
+      size_bytes: 2168958484,
+      date_uploaded: "2020-03-24 23:01:35",
+      date_uploaded_unix: 1585087295
+      }
+      ],
+      date_uploaded: "2020-03-24 21:08:29",
+      date_uploaded_unix: 1585080509
       }
   ]
 }
