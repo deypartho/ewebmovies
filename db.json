@@ -175,6 +175,62 @@
         "date_uploaded": "2020-06-26 21:06:14",
         "date_uploaded_unix": 1593198374
       },
+    {
+        "id": 19155,
+        "url": "https://yts.mx/movies/the-old-guard-2020",
+        "imdb_code": "tt7556122",
+        "title": "The Old Guard",
+        "title_english": "The Old Guard",
+        "title_long": "The Old Guard (2020)",
+        "slug": "the-old-guard-2020",
+        "year": 2020,
+        "rating": 6.8,
+        "runtime": 125,
+        "genres": [
+        "Action",
+        "Fantasy"
+        ],
+        "summary": "Led by a warrior named Andy (Charlize Theron), a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it's up to Andy and Nile (Kiki Layne), the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.",
+        "description_full": "Led by a warrior named Andy (Charlize Theron), a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it's up to Andy and Nile (Kiki Layne), the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.",
+        "synopsis": "Led by a warrior named Andy (Charlize Theron), a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it's up to Andy and Nile (Kiki Layne), the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary.",
+        "yt_trailer_code": "aK-X2d0lJ_s",
+        "language": "English",
+        "mpa_rating": "R",
+        "background_image": "https://yts.mx/assets/images/movies/the_old_guard_2020/background.jpg",
+        "background_image_original": "https://yts.mx/assets/images/movies/the_old_guard_2020/background.jpg",
+        "small_cover_image": "https://yts.mx/assets/images/movies/the_old_guard_2020/small-cover.jpg",
+        "medium_cover_image": "https://yts.mx/assets/images/movies/the_old_guard_2020/medium-cover.jpg",
+        "large_cover_image": "https://yts.mx/assets/images/movies/the_old_guard_2020/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+        {
+        "url": "https://yts.mx/torrent/download/6ECBD1C6AD35857CA0ED802D7DE41C30A90920C5",
+        "hash": "6ECBD1C6AD35857CA0ED802D7DE41C30A90920C5",
+        "quality": "720p",
+        "type": "web",
+        "seeds": 0,
+        "peers": 0,
+        "size": "1.13 GB",
+        "size_bytes": 1213328261,
+        "date_uploaded": "2020-07-11 20:15:35",
+        "date_uploaded_unix": 1594491335
+        },
+        {
+        "url": "https://yts.mx/torrent/download/E9C667FBED735AD0C6602748EB5CDC7709CC42AA",
+        "hash": "E9C667FBED735AD0C6602748EB5CDC7709CC42AA",
+        "quality": "1080p",
+        "type": "web",
+        "seeds": 0,
+        "peers": 0,
+        "size": "2.32 GB",
+        "size_bytes": 2491081032,
+        "date_uploaded": "2020-07-11 23:12:15",
+        "date_uploaded_unix": 1594501935
+        }
+        ],
+        "date_uploaded": "2020-07-11 20:15:35",
+        "date_uploaded_unix": 1594491335
+        },
       {
         "id": 16204,
         "url": "https://yts.mx/movies/bloodshot-2020",
