@@ -35,5 +35,41 @@
             "size_bytes": 3.81
             }
         ]
+      },
+    {
+        "id": 1,
+        "url": "http://ewebmovies.online/#/hindiwebseries/408764",
+        "imdb_code": "tt11854694",
+        "title": "Special OPS",
+        "title_english": "Special OPS",
+        "title_long": "Special OPS",
+        "slug": "Special-OPS-2020",
+        "year": 2020,
+        "rating": 8.7,
+        "runtime": 49,
+        "genres": [
+            "Action", "Thriller"
+        ],
+        "summary": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team... ",
+        "description_full": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team...",
+        "synopsis": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team...",
+        "yt_trailer_code": "GF0H5DZAE2g",
+        "language": "Ben - Hindi - Tamil - Tel - Kan",
+        "small_cover_image": "https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg",
+        "medium_cover_image": "https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg",
+        "large_cover_image": "https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg",
+        "state": "ok",
+        "torrents": [
+            {
+            "url": "https://prostylex.org/download.php?id=408754&name=Special%20OPS%20%282020%29%20S01%20Complete%20H.S%20720p%20WEB-DL%20Multi%20Audios%20%5BBen%20-%20Hindi%20-%20Tamil%20-%20Tel%20-%20Kan%5D%20ESub%203.8GB.mkv.torrent",
+            "hash": "magnet:?xt=urn:btih:460cd9469b187ab2d4092799319682168f686868&dn=Special%20OPS%20%282020%29%20S01%20Complete%20H.S%20720p%20WEB-DL%20Multi%20Audios%20%5BBen%20-%20Hindi%20-%20Tamil%20-%20Tel%20-%20Kan%5D%20ESub%203.8GB%20BongRockers%C2%A0%5BHDWebMovies%5D&tr=http://tracker.nyap2p.com:8080/announce",
+            "quality": "720p",
+            "type": "720p",
+            "seeds": 131,
+            "peers": 141,
+            "size": "3.81 GB",
+            "size_bytes": 3.81
+            }
+        ]
       }
   ]
