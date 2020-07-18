@@ -2086,7 +2086,63 @@
   ],
   "hindi":[],
   "homeBanner": [
-   
+    {
+    "id": 19355,
+    "url": "https://yts.mx/movies/the-silencing-2020",
+    "imdb_code": "tt7149730",
+    "title": "The Silencing",
+    "title_english": "The Silencing",
+    "title_long": "The Silencing (2020)",
+    "slug": "the-silencing-2020",
+    "year": 2020,
+    "rating": 6.2,
+    "runtime": 93,
+    "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+    ],
+    "summary": "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+    "description_full": "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+    "synopsis": "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+    "yt_trailer_code": "v1rQOLis1P0",
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "https://yts.mx/assets/images/movies/the_silencing_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/the_silencing_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/the_silencing_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/the_silencing_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/the_silencing_2020/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/4485187E1444A9D84DACBCA8C63AAB2F06736654",
+    "hash": "4485187E1444A9D84DACBCA8C63AAB2F06736654",
+    "quality": "720p",
+    "type": "web",
+    "seeds": 1286,
+    "peers": 988,
+        "size": "866.27 MB",
+        "size_bytes": 908349932,
+        "date_uploaded": "2020-07-17 17:01:12",
+        "date_uploaded_unix": 1594998072
+        },
+        {
+        "url": "https://yts.mx/torrent/download/48BCD5FFD7A6303AC07CD88518FC034400ECCE39",
+        "hash": "48BCD5FFD7A6303AC07CD88518FC034400ECCE39",
+        "quality": "1080p",
+        "type": "web",
+        "seeds": 1295,
+        "peers": 916,
+        "size": "1.57 GB",
+        "size_bytes": 1685774664,
+        "date_uploaded": "2020-07-17 18:40:07",
+        "date_uploaded_unix": 1595004007
+        }
+        ],
+        "date_uploaded": "2020-07-17 17:01:12",
+        "date_uploaded_unix": 1594998072
+    },
     {
       "id": 19155,
       "url": "https://yts.mx/movies/the-old-guard-2020",
