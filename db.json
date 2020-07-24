@@ -56,6 +56,63 @@
     "date_uploaded_unix": 1593223376
     },
     {
+    "id": 19377,
+    "url": "https://yts.mx/movies/bangalore-days-2014",
+    "imdb_code": "tt3668162",
+    "title": "Bangalore Days",
+    "title_english": "Bangalore Days",
+    "title_long": "Bangalore Days (2014)",
+    "slug": "bangalore-days-2014",
+    "year": 2014,
+    "rating": 8.3,
+    "runtime": 171,
+    "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+    ],
+    "summary": "Bangalore Days begins with an intro from Kuttan (Nivin Pauly) introducing himself and his cousins namely Divya (Nazriya) and Aju (Dulquer) who share a very friendly relationship right from the childhood.They get separated after their schooling but are reunited at Bangalore after the marriage of Divya to Das. The story revolves around how their life turns at Bangalore.",
+    "description_full": "Bangalore Days begins with an intro from Kuttan (Nivin Pauly) introducing himself and his cousins namely Divya (Nazriya) and Aju (Dulquer) who share a very friendly relationship right from the childhood.They get separated after their schooling but are reunited at Bangalore after the marriage of Divya to Das. The story revolves around how their life turns at Bangalore.",
+    "synopsis": "Bangalore Days begins with an intro from Kuttan (Nivin Pauly) introducing himself and his cousins namely Divya (Nazriya) and Aju (Dulquer) who share a very friendly relationship right from the childhood.They get separated after their schooling but are reunited at Bangalore after the marriage of Divya to Das. The story revolves around how their life turns at Bangalore.",
+    "yt_trailer_code": "mj6Yz_SCe-E",
+    "language": "English",
+    "mpa_rating": "",
+    "background_image": "https://yts.mx/assets/images/movies/bangalore_days_2014/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/bangalore_days_2014/background.jpg",
+    small_cover_image: "https://yts.mx/assets/images/movies/bangalore_days_2014/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/bangalore_days_2014/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/bangalore_days_2014/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/E0C8EB6C410F443D4F70D55E2D6D6CDCFE2E267D",
+    "hash": "E0C8EB6C410F443D4F70D55E2D6D6CDCFE2E267D",
+    "quality": "720p",
+    "type": "bluray",
+    "seeds": 31,
+    "peers": 25,
+    "size": "1.53 GB",
+    "size_bytes": 1642824991,
+    "date_uploaded": "2020-07-18 05:39:32",
+    "date_uploaded_unix": 1595043572
+    },
+    {
+    "url": "https://yts.mx/torrent/download/E4EC3E9AA5C293FE962271ED72E3D8343E2F109C",
+    "hash": "E4EC3E9AA5C293FE962271ED72E3D8343E2F109C",
+    "quality": "1080p",
+    "type": "bluray",
+    "seeds": 21,
+    "peers": 22,
+    "size": "3.16 GB",
+    "size_bytes": 3393024164,
+    "date_uploaded": "2020-07-18 09:13:19",
+    "date_uploaded_unix": 1595056399
+    }
+    ],
+    "date_uploaded": "2020-07-18 05:39:32",
+    "date_uploaded_unix": 1595043572
+    },
+    {
     "id": 19264,
     "url": "https://yts.mx/movies/the-blue-elephant-2006",
     "imdb_code": "tt0815890",
