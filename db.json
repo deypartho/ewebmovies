@@ -39,6 +39,118 @@
     "date_uploaded": "2020-06-27 04:02:56",
     "date_uploaded_unix": 1593223376
     },
+      {
+      "id": 19163,
+      "url": "https://yts.mx/movies/sunganges-2019",
+      "imdb_code": "tt7084860",
+      "title": "SunGanges",
+      "title_english": "SunGanges",
+      "title_long": "SunGanges (2019)",
+      "slug": "sunganges-2019",
+      "year": 2019,
+      "rating": 7.2,
+      "runtime": 90,
+      "genres": [
+      "Adventure",
+      "Documentary",
+      "News"
+      ],
+      "summary": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense r"id"e three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+      "description_full": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense r"id"e three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+      "synopsis": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense r"id"e three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+      "yt_trailer_code": "",
+      "language": "English",
+      "mpa_rating": "",
+      "background_image": "https://yts.mx/assets/images/movies/sunganges_2019/background.jpg",
+      "background_image_original": "https://yts.mx/assets/images/movies/sunganges_2019/background.jpg",
+      "small_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/small-cover.jpg",
+      "medium_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/medium-cover.jpg",
+      "large_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/large-cover.jpg",
+      "state": "ok",
+      "torrents": [
+      {
+      "url": "https://yts.mx/torrent/download/F96CADE7813E09D0A18DE780D0D3CF2897904957",
+      "hash": "F96CADE7813E09D0A18DE780D0D3CF2897904957",
+      "quality": "720p",
+      "type": "web",
+      "seeds": 14,
+      "peers": 8,
+      "size": "679.63 MB",
+      "size_bytes": 712643707,
+      "date_uploaded": "2020-07-12 16:14:31",
+      "date_uploaded_unix": 1594563271
+      },
+      {
+      "url": "https://yts.mx/torrent/download/939124C18F7716D9DCCEF88710431BC72D064580",
+      "hash": "939124C18F7716D9DCCEF88710431BC72D064580",
+      "quality": "1080p",
+      "type": "web",
+      "seeds": 18,
+      "peers": 7,
+      "size": "1.23 GB",
+      "size_bytes": 1320702444,
+      "date_uploaded": "2020-07-12 18:05:29",
+      "date_uploaded_unix": 1594569929
+      }
+      ],
+      "date_uploaded": "2020-07-12 16:14:31",
+      "date_uploaded_unix": 1594563271
+      },
+      {
+      "id": 19047,
+      "url": "https://yts.mx/movies/the-story-of-plastic-2019",
+      "imdb_code": "tt9378216",
+      "title": "The Story of Plastic",
+      "title_english": "The Story of Plastic",
+      "title_long": "The Story of Plastic (2019)",
+      "slug": "the-story-of-plastic-2019",
+      "year": 2019,
+      "rating": 7.8,
+      "runtime": 95,
+      "genres": [
+      "Documentary"
+      ],
+      "summary": "We only know the end of the story...and that's just the beginning.",
+      "description_full": "We only know the end of the story...and that's just the beginning.",
+      "synopsis": "We only know the end of the story...and that's just the beginning.",
+      "yt_trailer_code": "krhZmrDVv_k",
+      "language": "English",
+      "mpa_rating": "",
+      "background_image": "https://yts.mx/assets/images/movies/the_story_of_plastic_2019/background.jpg",
+      "background_image_original": "https://yts.mx/assets/images/movies/the_story_of_plastic_2019/background.jpg",
+      "small_cover_image": "https://yts.mx/assets/images/movies/the_story_of_plastic_2019/small-cover.jpg",
+      "medium_cover_image": "https://yts.mx/assets/images/movies/the_story_of_plastic_2019/medium-cover.jpg",
+      "large_cover_image": "https://yts.mx/assets/images/movies/the_story_of_plastic_2019/large-cover.jpg",
+      "state": "ok",
+      "torrents": [
+      {
+      "url": "https://yts.mx/torrent/download/D5B0BA452795E3AB2F46F15805BE174D173D1273",
+      "hash": "D5B0BA452795E3AB2F46F15805BE174D173D1273",
+      "quality": "720p",
+      "type": "web",
+      "seeds": 33,
+      "peers": 4,
+      "size": "811.27 MB",
+      "size_bytes": 850678252,
+      "date_uploaded": "2020-07-09 06:27:17",
+      "date_uploaded_unix": 1594268837
+      },
+      {
+      "url": "https://yts.mx/torrent/download/6CAC8C7BC8D72209F404AA3EA33C704949F2BC6C",
+      "hash": "6CAC8C7BC8D72209F404AA3EA33C704949F2BC6C",
+      "quality": "1080p",
+      "type": "web",
+      "seeds": 51,
+      "peers": 8,
+      "size": "1.47 GB",
+      "size_bytes": 1578400481,
+      "date_uploaded": "2020-07-09 08:32:34",
+      "date_uploaded_unix": 1594276354
+      }
+      ],
+      "date_uploaded": "2020-07-09 06:27:17",
+      "date_uploaded_unix": 1594268837
+      },
     {
     "url": "https://yts.mx/torrent/download/72782ECFA8F61B428FA878360955CEFBAB422C8C",
     "hash": "72782ECFA8F61B428FA878360955CEFBAB422C8C",
