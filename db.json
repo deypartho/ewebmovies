@@ -1,6 +1,61 @@
 {
   "hindiYts": [
     {
+    "id": 18665,
+    "url": "https://yts.mx/movies/choked-2020",
+    "imdb_code": "tt11651780",
+    "title": "Choked",
+    "title_english": "Choked",
+    "title_long": "Choked (2020)",
+    "slug": "choked-2020",
+    "year": 2020,
+    "rating": 5.7,
+    "runtime": 0,
+    "genres": [
+    "Drama"
+    ],
+    "summary": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "description_full": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "synopsis": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "yt_trailer_code": "KY3D-htXKFE",
+    "language": "English",
+    "mpa_rating": "",
+    "background_image": "https://yts.mx/assets/images/movies/choked_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/choked_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/choked_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/choked_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/choked_2020/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/1E76279E5B198E1DDEE061BD371ECD56E3D06CF0",
+    "hash": "1E76279E5B198E1DDEE061BD371ECD56E3D06CF0",
+    "quality": "720p",
+    "type": "web",
+    "seeds": 50,
+    "peers": 8,
+    "size": "1.03 GB",
+    "size_bytes": 1105954079,
+    "date_uploaded": "2020-06-27 04:02:56",
+    "date_uploaded_unix": 1593223376
+    },
+    {
+    "url": "https://yts.mx/torrent/download/72782ECFA8F61B428FA878360955CEFBAB422C8C",
+    "hash": "72782ECFA8F61B428FA878360955CEFBAB422C8C",
+    "quality": "1080p",
+    "type": "web",
+    "seeds": 27,
+    "peers": 12,
+    "size": "2.11 GB",
+    "size_bytes": 2265595249,
+    "date_uploaded": "2020-06-27 06:34:35",
+    "date_uploaded_unix": 1593232475
+    }
+    ],
+    "date_uploaded": "2020-06-27 04:02:56",
+    "date_uploaded_unix": 1593223376
+    },
+    {
     "id": 19264,
     "url": "https://yts.mx/movies/the-blue-elephant-2006",
     "imdb_code": "tt0815890",
@@ -2144,6 +2199,61 @@
   ],
   "hindi":[],
   "homeBanner": [
+    {
+    "id": 18665,
+    "url": "https://yts.mx/movies/choked-2020",
+    "imdb_code": "tt11651780",
+    "title": "Choked",
+    "title_english": "Choked",
+    "title_long": "Choked (2020)",
+    "slug": "choked-2020",
+    "year": 2020,
+    "rating": 5.7,
+    "runtime": 0,
+    "genres": [
+    "Drama"
+    ],
+    "summary": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "description_full": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "synopsis": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+    "yt_trailer_code": "KY3D-htXKFE",
+    "language": "English",
+    "mpa_rating": "",
+    "background_image": "https://yts.mx/assets/images/movies/choked_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/choked_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/choked_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/choked_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/choked_2020/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/1E76279E5B198E1DDEE061BD371ECD56E3D06CF0",
+    "hash": "1E76279E5B198E1DDEE061BD371ECD56E3D06CF0",
+    "quality": "720p",
+    "type": "web",
+    "seeds": 50,
+    "peers": 8,
+    "size": "1.03 GB",
+    "size_bytes": 1105954079,
+    "date_uploaded": "2020-06-27 04:02:56",
+    "date_uploaded_unix": 1593223376
+    },
+    {
+    "url": "https://yts.mx/torrent/download/72782ECFA8F61B428FA878360955CEFBAB422C8C",
+    "hash": "72782ECFA8F61B428FA878360955CEFBAB422C8C",
+    "quality": "1080p",
+    "type": "web",
+    "seeds": 27,
+    "peers": 12,
+    "size": "2.11 GB",
+    "size_bytes": 2265595249,
+    "date_uploaded": "2020-06-27 06:34:35",
+    "date_uploaded_unix": 1593232475
+    }
+    ],
+    "date_uploaded": "2020-06-27 04:02:56",
+    "date_uploaded_unix": 1593223376
+    },
     {
     "id": 19264,
     "url": "https://yts.mx/movies/the-blue-elephant-2006",
