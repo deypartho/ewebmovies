@@ -1,6 +1,63 @@
 {
   "hindiYts": [
     {
+    "id": 19163,
+    "url": "https://yts.mx/movies/sunganges-2019",
+    "imdb_code": "tt7084860",
+    "title": "SunGanges",
+    "title_english": "SunGanges",
+    "title_long": "SunGanges (2019)",
+    "slug": "sunganges-2019",
+    "year": 2019,
+    "rating": 7.2,
+    "runtime": 90,
+    "genres": [
+    "Adventure",
+    "Documentary",
+    "News"
+    ],
+    "summary": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense ride three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+    "description_full": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense ride three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+    "synopsis": "A panoptic film on water, energy and climate, SunGanges (SuryaGanga) is a wild and intense ride three filmmakers take across the vast Indian landscape in an attempt to connect the dots between vanishing rivers, massive energy projects and the quiet rise of renewable energy.",
+    "yt_trailer_code": "raTMll84FYk",
+    "language": "English",
+    "mpa_rating": "",
+    "background_image": "https://yts.mx/assets/images/movies/sunganges_2019/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/sunganges_2019/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/sunganges_2019/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/F96CADE7813E09D0A18DE780D0D3CF2897904957",
+    "hash": "F96CADE7813E09D0A18DE780D0D3CF2897904957",
+    "quality": "720p",
+    "type": "web",
+    "seeds": 16,
+    "peers": 6,
+    "size": "679.63 MB",
+    "size_bytes": 712643707,
+    "date_uploaded": "2020-07-12 16:14:31",
+    "date_uploaded_unix": 1594563271
+    },
+    {
+    "url": "https://yts.mx/torrent/download/939124C18F7716D9DCCEF88710431BC72D064580",
+    "hash": "939124C18F7716D9DCCEF88710431BC72D064580",
+    "quality": "1080p",
+    "type": "web",
+    "seeds": 16,
+    "peers": 8,
+    "size": "1.23 GB",
+    "size_bytes": 1320702444,
+    "date_uploaded": "2020-07-12 18:05:29",
+    "date_uploaded_unix": 1594569929
+    }
+    ],
+    "date_uploaded": "2020-07-12 16:14:31",
+    "date_uploaded_unix": 1594563271
+    },
+    {
     "id": 18665,
     "url": "https://yts.mx/movies/choked-2020",
     "imdb_code": "tt11651780",
