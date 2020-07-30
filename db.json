@@ -2495,6 +2495,64 @@
   "date_uploaded_unix": 1586239225
   },
     {
+  "id": 19729,
+  "url": "https://yts.mx/movies/day-watch-2006",
+  "imdb_code": "tt0409904",
+  "title": "Day Watch",
+  "title_english": "Day Watch",
+  "title_long": "Day Watch (2006)",
+  "slug": "day-watch-2006",
+  "year": 2006,
+  "rating": 6.5,
+  "runtime": 132,
+  "genres": [
+  "Action",
+  "Fantasy",
+  "Horror",
+  "Thriller"
+  ],
+  "summary": "Anton belongs to the Forces of the Light as do his powerful girlfriend and apprentice, but his son is a powerful teenager from the Darkness and Anton protects him. When the balance between Light and Darkness is affected by the death of some evil vampires, Anton is framed and accused of the murders, and he chases an ancient chalk that has the power of changing the destiny of its owner.",
+  "description_full": "Anton belongs to the Forces of the Light as do his powerful girlfriend and apprentice, but his son is a powerful teenager from the Darkness and Anton protects him. When the balance between Light and Darkness is affected by the death of some evil vampires, Anton is framed and accused of the murders, and he chases an ancient chalk that has the power of changing the destiny of its owner.",
+  "synopsis": "Anton belongs to the Forces of the Light as do his powerful girlfriend and apprentice, but his son is a powerful teenager from the Darkness and Anton protects him. When the balance between Light and Darkness is affected by the death of some evil vampires, Anton is framed and accused of the murders, and he chases an ancient chalk that has the power of changing the destiny of its owner.",
+  "yt_trailer_code": "S8VDpuJEQGw",
+  "language": "English",
+  "mpa_rating": "R",
+  "background_image": "https://yts.mx/assets/images/movies/day_watch_2006/background.jpg",
+  "background_image_original": "https://yts.mx/assets/images/movies/day_watch_2006/background.jpg",
+  "small_cover_image": "https://yts.mx/assets/images/movies/day_watch_2006/small-cover.jpg",
+  "medium_cover_image": "https://yts.mx/assets/images/movies/day_watch_2006/medium-cover.jpg",
+  "large_cover_image": "https://yts.mx/assets/images/movies/day_watch_2006/large-cover.jpg",
+  "state": "ok",
+  "torrents": [
+  {
+  "url": "https://yts.mx/torrent/download/5ED32CA0762141760E420DA62DE899B2FA6361A0",
+  "hash": "5ED32CA0762141760E420DA62DE899B2FA6361A0",
+  "quality": "720p",
+  "type": "bluray",
+  "seeds": 422,
+  "peers": 230,
+  "size": "1.31 GB",
+  "size_bytes": 1406601789,
+  "date_uploaded": "2020-07-29 03:44:17",
+  "date_uploaded_unix": 1595987057
+  },
+  {
+  "url": "https://yts.mx/torrent/download/724B348642A2E40EE198DAC94771FB13AEDBD3F5",
+  "hash": "724B348642A2E40EE198DAC94771FB13AEDBD3F5",
+  "quality": "1080p",
+  "type": "bluray",
+  "seeds": 351,
+  "peers": 163,
+  "size": "2.69 GB",
+  "size_bytes": 2888365507,
+  "date_uploaded": "2020-07-29 07:12:50",
+  "date_uploaded_unix": 1595999570
+  }
+  ],
+  "date_uploaded": "2020-07-29 03:44:17",
+  "date_uploaded_unix": 1595987057
+  },
+    {
     "id": 18665,
     "url": "https://yts.mx/movies/choked-2020",
     "imdb_code": "tt11651780",
