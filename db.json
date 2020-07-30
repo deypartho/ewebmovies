@@ -2426,6 +2426,75 @@
   "hindi":[],
   "homeBanner": [
     {
+    "id": 16518,
+    "url": "https://yts.mx/movies/my-spy-2020",
+    "imdb_code": "tt8242084",
+    "title": "My Spy",
+    "title_english": "My Spy",
+    "title_long": "My Spy (2020)",
+    "slug": "my-spy-2020",
+    "year": 2020,
+    "rating": 6.3,
+    "runtime": 99,
+    "genres": [
+    "Action",
+    "Comedy",
+    "Family"
+    ],
+    "summary": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+    "description_full": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+    "synopsis": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+    "yt_trailer_code": "pfAhQSz-j_o",
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "https://yts.mx/assets/images/movies/my_spy_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/my_spy_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/my_spy_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/my_spy_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/my_spy_2020/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/9C058E51EC43287A892687F289EE229E6E2AA3B6",
+    "hash": "9C058E51EC43287A892687F289EE229E6E2AA3B6",
+    "quality": "720p",
+    "type": "bluray",
+    "seeds": 1877,
+    "peers": 785,
+    "size": "911.92 MB",
+    "size_bytes": 956217426,
+    "date_uploaded": "2020-04-07 08:00:25",
+    "date_uploaded_unix": 1586239225
+    },
+    {
+    "url": "https://yts.mx/torrent/download/DBB2B30994B9799E92C8B2272D28C7D62E49A4D7",
+    "hash": "DBB2B30994B9799E92C8B2272D28C7D62E49A4D7",
+    "quality": "1080p",
+    "type": "bluray",
+    "seeds": 1485,
+    "peers": 587,
+    "size": "1.83 GB",
+    "size_bytes": 1964947538,
+    "date_uploaded": "2020-04-07 09:49:54",
+    "date_uploaded_unix": 1586245794
+    },
+    {
+    "url": "https://yts.mx/torrent/download/81157A8D29E163991EDACE9B55155E256BF79E7C",
+    "hash": "81157A8D29E163991EDACE9B55155E256BF79E7C",
+    "quality": "2160p",
+    "type": "web",
+    "seeds": 89,
+    "peers": 127,
+    "size": "4.49 GB",
+    "size_bytes": 4821100790,
+    date_uploaded: "2020-07-30 05:46:55",
+    "date_uploaded_unix": 1596080815
+    }
+    ],
+    "date_uploaded": "2020-04-07 08:00:25",
+    "date_uploaded_unix": 1586239225
+    },
+    {
     "id": 18665,
     "url": "https://yts.mx/movies/choked-2020",
     "imdb_code": "tt11651780",
