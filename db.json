@@ -2483,6 +2483,63 @@
   "hindi":[],
   "homeBanner": [
     {
+    "id": 19796,
+    "url": "https://yts.mx/movies/yaara-2020",
+    "imdb_code": "tt3698454",
+    "title": "Yaara",
+    "title_english": "Yaara",
+    "title_long": "Yaara (2020)",
+    "slug": "yaara-2020",
+    "year": 2020,
+    "rating": 6.4,
+    "runtime": 0,
+    "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+    ],
+    "summary": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve their time in jail. However, both men who once ruled the drug smuggling, gun-running and looting struggle in their own different ways to escape their past and start a new life after being released.",
+    "description_full": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve their time in jail. However, both men who once ruled the drug smuggling, gun-running and looting struggle in their own different ways to escape their past and start a new life after being released.",
+    "synopsis": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve their time in jail. However, both men who once ruled the drug smuggling, gun-running and looting struggle in their own different ways to escape their past and start a new life after being released.",
+    "yt_trailer_code": "KBO5zE9uFZA",
+    "language": "English",
+    "mpa_rating": "",
+    "background_image": "https://yts.mx/assets/images/movies/yaara_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/yaara_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/yaara_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/yaara_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/yaara_2020/large-cover.jpg",
+    "state": "ok",
+    "torrents": [
+    {
+    "url": "https://yts.mx/torrent/download/51F0F9263D0E5A5BBB830F45519233A792320FD8",
+    "hash": "51F0F9263D0E5A5BBB830F45519233A792320FD8",
+    "quality": "720p",
+    "type": "web",
+    "seeds": 354,
+    "peers": 335,
+    "size": "1.17 GB",
+    "size_bytes": 1256277934,
+    "date_uploaded": "2020-07-31 00:27:37",
+    "date_uploaded_unix": 1596148057
+    },
+    {
+    "url": "https://yts.mx/torrent/download/750F971394CF969DAD41A075772DEB67C381E42C",
+    "hash": "750F971394CF969DAD41A075772DEB67C381E42C",
+    "quality": "1080p",
+    "type": "web",
+    "seeds": 234,
+    "peers": 198,
+    "size": "2.18 GB",
+    "size_bytes": 2340757176,
+    "date_uploaded": "2020-07-31 02:55:02",
+    "date_uploaded_unix": 1596156902
+    }
+    ],
+    "date_uploaded": "2020-07-31 00:27:37",
+    "date_uploaded_unix": 1596148057
+    },
+    {
     "id": 19702,
     "url": "https://yts.mx/movies/deep-blue-sea-3-2020",
     "imdb_code": "tt11946300",
