@@ -1,64 +1,6 @@
  {
     "hindiYts": [
         {
-        "id": 20601,
-        "url": "https://yts.mx/movies/gunjan-saxena-the-kargil-girl-2020",
-        "imdb_code": "tt10350626",
-        "title": "Gunjan Saxena: The Kargil Girl",
-        "title_english": "Gunjan Saxena: The Kargil Girl",
-        "title_long": "Gunjan Saxena: The Kargil Girl (2020)",
-        "slug": "gunjan-saxena-the-kargil-girl-2020",
-        "year": 2020,
-        "rating": 5.2,
-        "runtime": 112,
-        "genres": [
-        "Action",
-        "Biography",
-        "Drama",
-        "War"
-        ],
-        "summary": "Gunjan Saxenas dream since childhood is to be a pilot she decides to quit her education after 10th to train as pilot.But with changing times the qualification changes finally she manages to fill the form after her graduation but has to back out due to a huge fee.She gets an opportunity to train as a female air force officer in newly started camp and is the only candidate to be selected.Gunjan then heads for further training towards the air force camp where she has to face humiliation from Senior male officers for being the only female in the camp.",
-        "description_full": "Gunjan Saxenas dream since childhood is to be a pilot she decides to quit her education after 10th to train as pilot.But with changing times the qualification changes finally she manages to fill the form after her graduation but has to back out due to a huge fee.She gets an opportunity to train as a female air force officer in newly started camp and is the only candidate to be selected.Gunjan then heads for further training towards the air force camp where she has to face humiliation from Senior male officers for being the only female in the camp.",
-        "synopsis": "Gunjan Saxenas dream since childhood is to be a pilot she decides to quit her education after 10th to train as pilot.But with changing times the qualification changes finally she manages to fill the form after her graduation but has to back out due to a huge fee.She gets an opportunity to train as a female air force officer in newly started camp and is the only candidate to be selected.Gunjan then heads for further training towards the air force camp where she has to face humiliation from Senior male officers for being the only female in the camp.",
-        "yt_trailer_code": "",
-        "language": "hi",
-        "mpa_rating": "",
-        "background_image": "https://yts.mx/assets/images/movies/gunjan_saxena_the_kargil_girl_2020/background.jpg",
-        "background_image_original": "https://yts.mx/assets/images/movies/gunjan_saxena_the_kargil_girl_2020/background.jpg",
-        "small_cover_image": "https://yts.mx/assets/images/movies/gunjan_saxena_the_kargil_girl_2020/small-cover.jpg",
-        "medium_cover_image": "https://yts.mx/assets/images/movies/gunjan_saxena_the_kargil_girl_2020/medium-cover.jpg",
-        "large_cover_image": "https://yts.mx/assets/images/movies/gunjan_saxena_the_kargil_girl_2020/large-cover.jpg",
-        "state": "ok",
-        "torrents": [
-        {
-        "url": "https://yts.mx/torrent/download/99FDE420586086AC3B5E05463B36E49C3B28EC42",
-        "hash": "99FDE420586086AC3B5E05463B36E49C3B28EC42",
-        "quality": "720p",
-        "type": "web",
-        "seeds": 53,
-        "peers": 19,
-        "size": "1.01 GB",
-        "size_bytes": 1084479242,
-        "date_uploaded": "2020-08-26 18:23:59",
-        "date_uploaded_unix": 1598459039
-        },
-        {
-        "url": "https://yts.mx/torrent/download/A03502CB43FE80CFD13B977244255D40BB6CFCB0",
-        "hash": "A03502CB43FE80CFD13B977244255D40BB6CFCB0",
-        "quality": "1080p",
-        "type": "web",
-        "seeds": 45,
-        "peers": 20,
-        "size": "2.08 GB",
-        "size_bytes": 2233382994,
-        "date_uploaded": "2020-08-26 20:36:10",
-        "date_uploaded_unix": 1598466970
-        }
-        ],
-        "date_uploaded": "2020-08-26 18:23:59",
-        "date_uploaded_unix": 1598459039
-        },
-        {
         "id": 21326,
         "url": "https://yts.mx/movies/dolly-kitty-and-those-twinkling-stars-2019",
         "imdb_code": "tt9176296",
