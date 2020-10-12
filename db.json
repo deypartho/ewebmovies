@@ -3172,6 +3172,24 @@
     "hindi":[],
     "homeBanner": [
     {
+    "id": 20389,
+    "title": "Ava",
+    "year": 2020,
+    "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+    ],
+    "summary": "Lethally beautiful and incredibly efficient in her dangerous line of work, Ava, a taciturn lone wolf and cold-blooded assassin, is starting to develop a conscience. Having beaten her alcohol and substance dependence with the help of Duke, her grizzled mentor of death and father figure, more and more, unstable Ava lets guilt get in the way of closing her "deals", attracting unwanted attention by breaking protocol. As a result, after a botched attempt to liquidate a high-profile target, Ava reunites with her estranged family after eight long years of absence, unaware that she has just signed her death warrant. Now, as Ava tries to settle old scores and reconnect with her loved ones, every killer in the business is after her. Can Ava rely on Duke to have her back?",
+    "background_image": "https://yts.mx/assets/images/movies/ava_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/ava_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/ava_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/ava_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/ava_2020/large-cover.jpg"
+    },
+    {
     "id": 20601,
     "url": "https://yts.mx/movies/gunjan-saxena-the-kargil-girl-2020",
     "imdb_code": "tt10350626",
