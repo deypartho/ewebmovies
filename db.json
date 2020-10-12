@@ -3235,23 +3235,7 @@
     "medium_cover_image": "https://yts.mx/assets/images/movies/the_doorman_2020/medium-cover.jpg",
     "large_cover_image": "https://yts.mx/assets/images/movies/the_doorman_2020/large-cover.jpg"
     },
-    {
-    "id": 21435,
-    "title": "Enola Holmes",
-    "year": 2020,
-    "genres": [
-    "Adventure",
-    "Crime",
-    "Drama",
-    "Mystery"
-    ],
-    "summary": "England, 1884 - a world on the brink of change. On the morning of her 16th birthday, Enola Holmes (Millie Bobby Brown) wakes to find that her mother (Helena Bonham Carter) has disappeared, leaving behind an odd assortment of gifts but no apparent clue as to where she's gone or why. After a free-spirited childhood, Enola suddenly finds herself under the care of her brothers Sherlock (Henry Cavill) and Mycroft (Sam Claflin), both set on sending her away to a finishing school for proper young ladies. Refusing to follow their wishes, Enola escapes to search for her mother in London. But when her journey finds her entangled in a mystery surrounding a young runaway Lord (Louis Partridge), Enola becomes a super-sleuth in her own right, outwitting her famous brother as she unravels a conspiracy that threatens to set back the course of history.",
-    "background_image": "https://yts.mx/assets/images/movies/enola_holmes_2020/background.jpg",
-    "background_image_original": "https://yts.mx/assets/images/movies/enola_holmes_2020/background.jpg",
-    "small_cover_image": "https://yts.mx/assets/images/movies/enola_holmes_2020/small-cover.jpg",
-    "medium_cover_image": "https://yts.mx/assets/images/movies/enola_holmes_2020/medium-cover.jpg",
-    "large_cover_image": "https://yts.mx/assets/images/movies/enola_holmes_2020/large-cover.jpg"
-    },    
+     
     {
     "id": 20389,
     "title": "Ava",
