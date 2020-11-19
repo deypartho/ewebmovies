@@ -3171,7 +3171,20 @@
     ],
     "hindi":[],
     "homeBanner": [
-    
+    {
+    "id": 22155,
+    "title": "GINNY WEDS SUNNY",
+    "year": 2020,
+    "genres": [
+        "Comedy","Romance"
+    ],
+    "summary": "The film follows headstrong Ginny who meets Sunny for an arranged marriage, but turns him down, and then shows how Sunny teams up with Ginny's mother to win her love.",
+    "background_image": "https://yts.mx/assets/images/movies/ginny_weds_sunny_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/ginny_weds_sunny_2020/background.jpg",
+    "small_cover_image": "https://img.yts.mx/assets/images/movies/ginny_weds_sunny_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/ginny_weds_sunny_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/ginny_weds_sunny_2020/large-cover.jpg"
+    },
      {
     "id": 18483,
     "title": "Lost Bullet",
