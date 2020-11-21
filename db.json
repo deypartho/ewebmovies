@@ -1,6 +1,63 @@
  {
     "hindiYts": [
         {
+        "id": "8651",
+        "url": "https://yts.mx/movies/pad-man-2018",
+        "imdb_code": "tt7218518",
+        "title": "Pad Man",
+        "title_english": "Pad Man",
+        "title_long": "Pad Man (2018)",
+        "slug": "pad-man-2018",
+        "year": "2018",
+        "rating": "7.9",
+        "runtime": "140",
+        "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+        ],
+        "summary": "Biography on Tamil Nadu activist Arunachalam Muruganantham, whose mission was to provide sanitary napkin's to poor women of rural areas. Who would use rag cloths or leaves during periods where use of sanitary napkins was rare. After he did not get fruitful results from his family and a medical college he approached, he decided to try it himself by making a uterus out of football bladder and filling goat's blood in it. He would roam around the whole day with the bladder, the aim was to check the absorption rate of the sanitary napkins made by him.",
+        "description_full": "Biography on Tamil Nadu activist Arunachalam Muruganantham, whose mission was to provide sanitary napkin's to poor women of rural areas. Who would use rag cloths or leaves during periods where use of sanitary napkins was rare. After he did not get fruitful results from his family and a medical college he approached, he decided to try it himself by making a uterus out of football bladder and filling goat's blood in it. He would roam around the whole day with the bladder, the aim was to check the absorption rate of the sanitary napkins made by him.",
+        "synopsis": "Biography on Tamil Nadu activist Arunachalam Muruganantham, whose mission was to provide sanitary napkin's to poor women of rural areas. Who would use rag cloths or leaves during periods where use of sanitary napkins was rare. After he did not get fruitful results from his family and a medical college he approached, he decided to try it himself by making a uterus out of football bladder and filling goat's blood in it. He would roam around the whole day with the bladder, the aim was to check the absorption rate of the sanitary napkins made by him.",
+        "yt_trailer_code": "-K9ujx8vO_A",
+        "language": "hi",
+        "mpa_rating": "PG-13",
+        "background_image": "https://yts.mx/assets/images/movies/padman_2018/background.jpg",
+        "background_image_original": "https://yts.mx/assets/images/movies/padman_2018/background.jpg",
+        "small_cover_image": "https://yts.mx/assets/images/movies/padman_2018/small-cover.jpg",
+        "medium_cover_image": "https://yts.mx/assets/images/movies/padman_2018/medium-cover.jpg",
+        "large_cover_image": "https://yts.mx/assets/images/movies/padman_2018/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+        {
+        "url": "https://yts.mx/torrent/download/01DE0521389B091E7375C1EBE69AAB3318A854D8",
+        "hash": "01DE0521389B091E7375C1EBE69AAB3318A854D8",
+        "quality": "720p",
+        "type": "bluray",
+        "seeds": "35",
+        "peers": "5",
+        "size": "1.15 GB",
+        "size_bytes": "1234803098",
+        "date_uploaded": "2018-08-21 21:51:41",
+        "date_uploaded_unix": "1534881101"
+        },
+        {
+        "url": "https://yts.mx/torrent/download/32C53B694629946F2032B41BC3A72799A11DCC3D",
+        "hash": "32C53B694629946F2032B41BC3A72799A11DCC3D",
+        "quality": "1080p",
+        "type": "bluray",
+        "seeds": "11",
+        "peers": "2",
+        "size": "2.2 GB",
+        "size_bytes": "2362232013",
+        "date_uploaded": "2018-08-22 00:18:22",
+        "date_uploaded_unix": "1534889902"
+        }
+        ],
+        "date_uploaded": "2018-08-21 21:51:41",
+        "date_uploaded_unix": "1534881101"
+        },
+        {
         "id": 20601,
         "url": "https://yts.mx/movies/gunjan-saxena-the-kargil-girl-2020",
         "imdb_code": "tt10350626",
