@@ -1,6 +1,75 @@
  {
     "hindiYts": [
         {
+        "id": "7691",
+        "url": "https://yts.mx/movies/dangal-2016",
+        "imdb_code": "tt5074352",
+        "title": "Dangal",
+        "year": "2016",
+        "rating": "8.4",
+        "runtime": "161",
+        "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "Sport"
+        ],
+        "description_full": "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (51 kg).",
+        "yt_trailer_code": "x_7YlGv9u1g",
+        "language": "hi",
+        "background_image": "https://yts.mx/assets/images/movies/dangal_2016/background.jpg",
+        "background_image_original": "https://yts.mx/assets/images/movies/dangal_2016/background.jpg",
+        "small_cover_image": "https://yts.mx/assets/images/movies/dangal_2016/small-cover.jpg",
+        "medium_cover_image": "https://yts.mx/assets/images/movies/dangal_2016/medium-cover.jpg",
+        "large_cover_image": "https://yts.mx/assets/images/movies/dangal_2016/large-cover.jpg",
+        },
+        {
+        "id": "8456",
+        "url": "https://yts.mx/movies/baahubali-the-beginning-2015",
+        "imdb_code": "tt2631186",
+        "title": "Baahubali: The Beginning",
+        "year": "2015",
+        "rating": "8.1",
+        "runtime": "159",
+        "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+        ],
+        "description_full": "When Sanga and her husband, part of a tribe living around the province of Mahismathi, save a drowning infant, little do they know the background of the infant or what the future holds for him. The kid grows up to as Shivudu, a free-spirit wanting to explore the mountains and in the process learns of his roots and then realizes the whole purpose of his life and ends up confronting the mighty Bhallala Deva!",
+        "yt_trailer_code": "3NQRhE772b0",
+        "language": "te",
+        "mpa_rating": "",
+        "background_image": "https://yts.mx/assets/images/movies/baahubali_the_beginning_2015/background.jpg",
+        "background_image_original": "https://yts.mx/assets/images/movies/baahubali_the_beginning_2015/background.jpg",
+        "small_cover_image": "https://yts.mx/assets/images/movies/baahubali_the_beginning_2015/small-cover.jpg",
+        "medium_cover_image": "https://yts.mx/assets/images/movies/baahubali_the_beginning_2015/medium-cover.jpg",
+        "large_cover_image": "https://yts.mx/assets/images/movies/baahubali_the_beginning_2015/large-cover.jpg"
+        },
+        {
+        "id": "8449",
+        "url": "https://yts.mx/movies/baahubali-2-the-conclusion-2017",
+        "imdb_code": "tt4849438",
+        "title": "Baahubali 2: The Conclusion",
+        "year": "2017",
+        "rating": "8.2",
+        "runtime": "167",
+        "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+        ],
+        "description_full": "Kattappa narrates the story of Amarendra Baahubali to Shivudu, who learns his lineage as the prince of Mahishmati and the son of Amarendra Baahubali. Shivudu, now Mahendra Baahubali, decides to dethrone and punish Bhallaladeva for all wrongdoings of his past with the help of Kattappa.",
+        "yt_trailer_code": "qD-6d8Wo3do",
+        "language": "te",
+        "mpa_rating": "",
+        "background_image": "https://yts.mx/assets/images/movies/baahubali_2_the_conclusion_2017/background.jpg",
+        "background_image_original": "https://yts.mx/assets/images/movies/baahubali_2_the_conclusion_2017/background.jpg",
+        "small_cover_image": "https://yts.mx/assets/images/movies/baahubali_2_the_conclusion_2017/small-cover.jpg",
+        "medium_cover_image": "https://yts.mx/assets/images/movies/baahubali_2_the_conclusion_2017/medium-cover.jpg",
+        "large_cover_image": "https://yts.mx/assets/images/movies/baahubali_2_the_conclusion_2017/large-cover.jpg"
+        },
+        {
         "id": "8441",
         "url": "https://yts.mx/movies/the-villain-2014",
         "imdb_code": "tt3175038",
