@@ -3493,6 +3493,57 @@
     "hindi":[],
     "homeBanner": [
     {
+    "id": 25305,
+    "title": "Wonder Woman 1984",
+    "year": 2020,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "summary": "ewind to the 1980s as Wonder Woman's next big screen adventure finds her facing two all-new foes: Max Lord and The Cheetah.",
+    "background_image": "https://yts.mx/assets/images/movies/wonder_woman_1984_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/wonder_woman_1984_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/wonder_woman_1984_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/wonder_woman_1984_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/wonder_woman_1984_2020/large-cover.jpg"
+    },
+    {
+    "id": 25289,
+    "title": "We Can Be Heroes",
+    "year": 2020,
+    "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "summary": "When alien invaders kidnap Earth's superheroes, their kids are whisked away to a government safe house. But whip-smart tween Missy Moreno will stop at nothing to rescue her superhero dad, Marcus Moreno. Missy teams up with the rest of the superkids to escape their mysterious government babysitter, Ms. Granada. If they're going to save their parents, they'll have to work together by using their individual powers - from elasticity to time control to predicting the future - and form an out-of-this-world team.",
+    "background_image": "https://yts.mx/assets/images/movies/we_can_be_heroes_2020/background.jpg",
+    "background_image_original": "https://yts.mx/assets/images/movies/we_can_be_heroes_2020/background.jpg",
+    "small_cover_image": "https://yts.mx/assets/images/movies/we_can_be_heroes_2020/small-cover.jpg",
+    "medium_cover_image": "https://yts.mx/assets/images/movies/we_can_be_heroes_2020/medium-cover.jpg",
+    "large_cover_image": "https://yts.mx/assets/images/movies/we_can_be_heroes_2020/large-cover.jpg"
+    },
+    {
+    "id": 25320,
+    "title": "Ludo",
+    "year": 2020,
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "summary": "From a resurfaced sex tape to a rogue suitcase of money, four wildly different stories overlap at the whims of fate, chance and one eccentric criminal. Now these misfits, miscreants, lovers and losers are all unwitting pawns in this unpredictable game. The only way home? Keep playing.",
+    "background_image": "https://yts.mx/assets/images/movies/ludo_2020/background.jpg",
+      "background_image_original": "https://yts.mx/assets/images/movies/ludo_2020/background.jpg",
+      "small_cover_image": "https://yts.mx/assets/images/movies/ludo_2020/small-cover.jpg",
+      "medium_cover_image": "https://yts.mx/assets/images/movies/ludo_2020/medium-cover.jpg",
+      "large_cover_image": "https://yts.mx/assets/images/movies/ludo_2020/large-cover.jpg"
+    },
+    {
     "id": 22155,
     "title": "GINNY WEDS SUNNY",
     "year": 2020,
