@@ -1,6 +1,56 @@
  {
     "hindiYts": [
         {
+        "id": "25427",
+        "title": "AK vs AK",
+        "year": "2020",
+        "rating": "7.1",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "medium_cover_image": "https://yts.mx/assets/images/movies/ak_vs_ak_2020/medium-cover.jpg"
+        },
+        {
+        "id": "22155",
+        "title": "Ginny Weds Sunny",
+        "year": "2020",
+        "rating": "5.6",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "medium_cover_image": "https://yts.mx/assets/images/movies/ginny_weds_sunny_2020/medium-cover.jpg"
+        },
+        {
+        "id": "18664",
+        "title": "Gulabo Sitabo",
+        "year": "2020",
+        "rating": "6.3",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "medium_cover_image": "https://yts.mx/assets/images/movies/gulabo_sitabo_2020/medium-cover.jpg"
+        },
+        {
+        "id": "22016",
+        "title": "Bhoot: Part One - The Haunted Ship",
+        "year": "2020",
+        "rating": "5.4",
+        "genres": [
+            "Action",
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "medium_cover_image": "https://yts.mx/assets/images/movies/bhoot_part_one_the_haunted_ship_2020/medium-cover.jpg"
+        },
+        {
         "id": "7691",
         "url": "https://yts.mx/movies/dangal-2016",
         "imdb_code": "tt5074352",
